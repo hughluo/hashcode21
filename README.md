@@ -9,4 +9,4 @@
 | C – Checkmate|1,289,417 |
 | E – Etoile |688,023 |
 | F – Forever jammed |1,148,879 |
-|Totoal |9,268,305|
+|Total |9,268,305|
